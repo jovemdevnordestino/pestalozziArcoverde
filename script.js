@@ -106,8 +106,8 @@ if (contatoForm) {
         }
         mensagemWhatsApp += `\n*Minha mensagem*:\n${mensagem}`;
         
-        // Número do WhatsApp (87) 99976-7712
-        // Formato: 5587999767712 (código do país + DDD + número sem parênteses e espaços)
+        // Número do WhatsApp (87) 99137-1787
+        // Formato: 5587991371787 (código do país + DDD + número sem parênteses e espaços)
         const numeroWhatsApp = '5587991371787';
         
         // Codifica a mensagem para URL
